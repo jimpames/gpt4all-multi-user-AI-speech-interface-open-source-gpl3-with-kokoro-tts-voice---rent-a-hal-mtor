@@ -1,4 +1,4 @@
-# RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
+# gpt4all multi user AI speech interface open source gpl3 with kokoro tts voice RENT-A-HAL Personal Edition API Multi-User Speech UI for AI FOR WINDOWS 11 AND RTX
 ## User Manual & Theory of Operation
 
 12 jul 26
